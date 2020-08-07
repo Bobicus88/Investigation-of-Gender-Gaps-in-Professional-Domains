@@ -1,0 +1,9 @@
+Statistics of pantheon_edges_1000.csv
+Min and max of indegrees: [0, 40]
+Avg of indegrees: 6.2991753
+Min and max of outdegrees: [0, 32]
+Avg of outdegrees: 6.2991753
+The most important people have 40 indegrees.
+The most important people: [Bill Clinton]
+Maximum path length from Bill Clinton: 848
+The people farthest with the maximum path length from the most important person: [Haddaway]
